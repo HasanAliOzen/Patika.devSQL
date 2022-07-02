@@ -1,4 +1,4 @@
--- Patika.dev SQL Homework 10
+-- Patika.dev SQL Homework 11
 
 
 -- actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
